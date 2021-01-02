@@ -1,0 +1,27 @@
+Project based on George Hotz Twichchess
+
+
+* Establish the search tree 
+* Use a nerural net to prune the search tree
+
+
+
+Definition: Value network
+
+Pieces (2+7*2 = 16):
+*  Universal
+** BLank
+** Blank 
+*  Pieces 
+** Pawn 
+** Bishop
+** Knight
+** Rock
+** Queen 
+** King
+
+
+Extra state: 
+* To move 
+
+
